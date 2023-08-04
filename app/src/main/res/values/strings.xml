@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyLMS</string>
+    <string name="silahkan_log_in">Silahkan Log In</string>
+    <string name="password">Kata Sandi</string>
+    <string name="nama_pengguna">Nama Pengguna</string>
+    <string name="syamtech">.::Syamtech::.</string>
+</resources>
